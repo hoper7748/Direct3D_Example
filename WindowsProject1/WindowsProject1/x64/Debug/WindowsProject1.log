@@ -1,2 +1,1 @@
-﻿  WindowsProject1.cpp
-LINK : fatal error LNK1104: 'd3dx9.lib' 파일을 열 수 없습니다.
+﻿  WindowsProject1.vcxproj -> C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\x64\Debug\WindowsProject1.exe
