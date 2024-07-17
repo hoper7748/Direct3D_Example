@@ -27,9 +27,21 @@
     <ClInclude Include="WinMain.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="CD3DApp.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameEdu01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WinMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CD3DApp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameEdu01.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

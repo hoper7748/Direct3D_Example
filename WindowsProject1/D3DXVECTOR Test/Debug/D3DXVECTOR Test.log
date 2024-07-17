@@ -1,0 +1,2 @@
+﻿  main.cpp
+C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\D3DXVECTOR Test\main.cpp(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9math.h': No such file or directory
