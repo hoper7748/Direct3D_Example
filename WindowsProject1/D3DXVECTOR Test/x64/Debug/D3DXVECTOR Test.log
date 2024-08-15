@@ -1,4 +1,1 @@
-﻿  main.cpp
-C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\D3DXVECTOR Test\main.cpp(9,15): warning C4244: '초기화 중': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\D3DXVECTOR Test\main.cpp(29,8): warning C4101: 'fLength' :참조되지 않은 지역 변수입니다.
-  D3DXVECTOR Test.vcxproj -> C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\x64\Debug\D3DXVECTOR Test.exe
+﻿  D3DXVECTOR Test.vcxproj -> D:\Git\Direct3D_Example\WindowsProject1\x64\Debug\D3DXVECTOR Test.exe

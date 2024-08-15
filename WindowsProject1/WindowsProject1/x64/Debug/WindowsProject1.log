@@ -1,6 +1,1 @@
-﻿  CD3DApp.cpp
-  CGameEdu01.cpp
-  WinMain.cpp
-  코드를 생성하고 있습니다...
-C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\WindowsProject1\WinMain.cpp(95): warning C4715: 'InitD3D': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  WindowsProject1.vcxproj -> C:\Users\hyeon2-400\Documents\GitHub\Direct3D_Example\WindowsProject1\x64\Debug\WindowsProject1.exe
+﻿  WindowsProject1.vcxproj -> D:\Git\Direct3D_Example\WindowsProject1\x64\Debug\WindowsProject1.exe
