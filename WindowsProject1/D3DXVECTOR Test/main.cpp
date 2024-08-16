@@ -26,7 +26,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	D3DXVECTOR3 v4(3.0f, 3.0f, 0.0f);
 
-	float fLength; 
+	//float fLength; 
 
 	//// 벡터의 합
 	//v3 = v1 + v2;
@@ -65,21 +65,29 @@ int _tmain(int argc, _TCHAR* argv[])
 	//fNormalize = D3DXVec3Length(&vResult);
 	//printf("단위 벡터의 크기 : %f \n", fNormalize);
 	
-	D3DXVECTOR3 v7(3.0f, .0f, 0.f);
-	D3DXVECTOR3 v8(-3.0, 0.0f, 0.0f);
+	//D3DXVECTOR3 v7(3.0f, .0f, 0.f);
+	//D3DXVECTOR3 v8(-3.0, 0.0f, 0.0f);
 
-	float fCos, fDot, fScale;
+	//float fCos, fDot, fScale;
 
-	fDot = D3DXVec3Dot(&v7, &v8);
-	fScale = D3DXVec3Length(&v7) * D3DXVec3Length(&v8);
-	fCos = fDot / fScale;
+	//fDot = D3DXVec3Dot(&v7, &v8);
+	//fScale = D3DXVec3Length(&v7) * D3DXVec3Length(&v8);
+	//fCos = fDot / fScale;
 
-	printf("라디안 : %f \n", fCos);
+	//printf("라디안 : %f \n", fCos);
+
+	D3DXVECTOR3 v9(3.0f, 0.0f, 0.0f);
+	D3DXVECTOR3 v10(0, 3.0f, .0f);
+	D3DXVECTOR3 vResult;
+
+	D3DXVec3Cross(&vResult, &v9, &v10);
+
+	D3DXVec3Normalized(&vResult, &vResult);
+
+	printf("%f, %f, %f", vResult.x, vResult.y, vResult.z);
 
 	return 0;
 
 
-
-	return 0;
 	 
 }
