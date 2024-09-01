@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Git\\Direct3D_Example\\WindowsProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17F06491-6234-40D8-A609-889B1E6FECF5}|D3DXVECTOR Test\\D3DXVECTOR Test.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{17F06491-6234-40D8-A609-889B1E6FECF5}|D3DXVECTOR Test\\D3DXVECTOR Test.vcxproj|solutionrelative:D3DXVECTOR Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\WinMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{17F06491-6234-40D8-A609-889B1E6FECF5}|D3DXVECTOR Test\\D3DXVECTOR Test.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17F06491-6234-40D8-A609-889B1E6FECF5}|D3DXVECTOR Test\\D3DXVECTOR Test.vcxproj|solutionrelative:D3DXVECTOR Test\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\CD3DApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\CGameEdu01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CB1C44C2-3B8F-42D9-A882-292377486CA3}|WindowsProject1\\WindowsProject1.vcxproj|solutionrelative:WindowsProject1\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -38,40 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 237,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp",
               "RelativeDocumentMoniker": "D3DXVECTOR Test\\main.cpp",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\D3DXVECTOR Test\\main.cpp",
               "RelativeToolTip": "D3DXVECTOR Test\\main.cpp",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEUAAAAAAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAFIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-15T06:16:14.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "WinMain.cpp",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp",
               "RelativeDocumentMoniker": "WindowsProject1\\WinMain.cpp",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\WinMain.cpp",
               "RelativeToolTip": "WindowsProject1\\WinMain.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-15T05:24:25.027Z"
+              "WhenOpened": "2024-08-15T05:24:25.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CD3DApp.cpp",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp",
               "RelativeDocumentMoniker": "WindowsProject1\\CD3DApp.cpp",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CD3DApp.cpp",
               "RelativeToolTip": "WindowsProject1\\CD3DApp.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -81,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CGameEdu01.cpp",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp",
               "RelativeDocumentMoniker": "WindowsProject1\\CGameEdu01.cpp",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\CGameEdu01.cpp",
               "RelativeToolTip": "WindowsProject1\\CGameEdu01.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -93,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "targetver.h",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h",
               "RelativeDocumentMoniker": "WindowsProject1\\targetver.h",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\targetver.h",
               "RelativeToolTip": "WindowsProject1\\targetver.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -105,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Resource.h",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h",
               "RelativeDocumentMoniker": "WindowsProject1\\Resource.h",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\Resource.h",
               "RelativeToolTip": "WindowsProject1\\Resource.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -117,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "framework.h",
-              "DocumentMoniker": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h",
+              "DocumentMoniker": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h",
               "RelativeDocumentMoniker": "WindowsProject1\\framework.h",
-              "ToolTip": "D:\\Git\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h",
+              "ToolTip": "C:\\Users\\hyeon2-400\\Documents\\GitHub\\Direct3D_Example\\WindowsProject1\\WindowsProject1\\framework.h",
               "RelativeToolTip": "WindowsProject1\\framework.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
